@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rhtmdgks/rhtmdgks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder and AI engineer building AI agent systems that work in real enterprise environments.
 
-Here are some ideas to get you started:
+**TETRAPOD** — On-premises AI agents that connect enterprise data, tools, and approval workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h3><code>rhtmdgks@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="840" alt="GitHub contribution graph for rhtmdgks" />
+
+<br>
+<br>
+
+<h3><code>rhtmdgks@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./ascii.svg" width="420" alt="Edmond Ko — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="420" alt="Edmond Ko, Founder and AI Engineer" /></td>
+</tr>
+</table>
+
+</div>
