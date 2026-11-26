@@ -1,22 +1,22 @@
 {
   "username": "rhtmdgks",
-  "generated_at": "2026-11-25T17:11:52Z",
+  "generated_at": "2026-11-26T16:52:11Z",
   "range": {
     "start": "2025-11-23",
+    "end": "2026-11-26"
+  },
+  "total_contributions": 1069,
+  "active_days": 116,
+  "avg_per_active_day": 9.2,
+  "current_streak": {
+    "length": 50,
+    "start": "2026-10-07",
     "end": "2026-11-25"
   },
-  "total_contributions": 1068,
-  "active_days": 115,
-  "avg_per_active_day": 9.3,
-  "current_streak": {
-    "length": 49,
-    "start": "2026-10-07",
-    "end": "2026-11-24"
-  },
   "longest_streak": {
-    "length": 49,
+    "length": 50,
     "start": "2026-10-07",
-    "end": "2026-11-24"
+    "end": "2026-11-25"
   },
   "best_day": {
     "date": "2026-07-13",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-11",
-      "total": 26
+      "total": 27
     }
   ],
   "days": [
@@ -1914,6 +1914,11 @@
     },
     {
       "date": "2026-11-25",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-26",
       "count": 0,
       "level": 0
     }
